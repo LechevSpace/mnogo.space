@@ -1,0 +1,77 @@
+.container {
+  max-width: 960px;
+}
+
+.icon-link > .bi {
+  width: .75em;
+  height: .75em;
+}
+
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+  background-color: rgba(0, 0, 0, .85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+  color: #8e8e8e;
+  transition: color .15s ease-in-out;
+}
+.site-header a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+.product-device {
+  position: absolute;
+  top: 15%;
+  right: auto;
+  bottom: 0;
+  left: 5%;
+  /* right: 10%;
+  bottom: 15%;*/
+  width: 300px;
+  height: 300px;
+  border-radius: 21px;
+  transform: rotate(-30deg);
+  background: url("./images/nanosat-kit.jpg");
+  background-size: 300px;
+  background-repeat: no-repeat;
+}
+
+.product-device-2 {
+  position: absolute;
+  top: 15%;
+  right: auto;
+  bottom: 0;
+  left: 5%;
+
+  width: 460px;
+  height: 350px;
+  border-radius: 21px;
+  /* transform: rotate(30deg); */
+  background: url("./images/nanosat-kit-2.jpg");
+  background-size: 460px 350px;
+  background-repeat: no-repeat;
+}
+
+
+/*
+ * Extra utilities
+ */
+
+.flex-equal > * {
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
+}

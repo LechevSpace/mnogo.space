@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0.8518580198287964, 0, 0, 0.8518580198287964, 198.9743347167969, 198.9555816650391)" style="">
+    <path style="stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-opacity: 0; fill-rule: nonzero; opacity: 1; stroke-width: 35.2171px; paint-order: fill; fill: rgb(41, 171, 226); stroke: rgb(41, 171, 226);" transform=" translate(-307.5, -273.77)" d="M 97.96171875 204.25 Q 88.96523437500002 365.25 310.878515625 358.25 Q 511.80000000000007 363.25 519.796875 204.25 Q 512.7996093749999 86.25 295.884375 94.25 L 296.883984375 456.25" stroke-linecap="round"/>
+  </g>
+</svg>
