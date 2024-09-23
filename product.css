@@ -40,8 +40,8 @@
   width: 300px;
   height: 300px;
   border-radius: 21px;
-  transform: rotate(-30deg);
-  background: url("./images/nanosat-kit.jpg");
+  /* transform: rotate(-30deg); */
+  background: url("./images/nanosat-kit-mvp-1.png");
   background-size: 300px;
   background-repeat: no-repeat;
 }
@@ -57,7 +57,7 @@
   height: 350px;
   border-radius: 21px;
   /* transform: rotate(30deg); */
-  background: url("./images/nanosat-kit-2.jpg");
+  background: url("./images/nanosat-kit-mvp-2.png");
   background-size: 460px 350px;
   background-repeat: no-repeat;
 }
